@@ -1,5 +1,4 @@
 # mobile-store
-https://amirsadriofficial.github.io/Mobile-Store/
 
 ## Project setup
 ```
