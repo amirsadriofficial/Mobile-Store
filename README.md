@@ -1,5 +1,7 @@
 # mobile-store
-https://mobile-store-amirsadriofficial.vercel.app/
+
+Click on the address to see the site: https://mobile-store-amirsadriofficial.vercel.app/
+
 ## Project setup
 ```
 npm install
