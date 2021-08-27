@@ -1,9 +1,7 @@
 # mobile-store
 
-
 ### Visit Website
 Click On The [Website](https://mobile-store-amirsadriofficial.vercel.app/) To Visit.
-
 
 ## Project setup
 ```
